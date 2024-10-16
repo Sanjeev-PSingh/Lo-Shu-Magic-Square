@@ -8,7 +8,7 @@ Asks user to input a list of number from 1 to 9 in a random order the dispays th
 
 - How to use Arrays to store and recall infromation
 - How to use for loops and arrays together to make programs more efficient
-
+- How to use functions in programs
 ### Tools Used
 
 Virtual Studio
